@@ -17,7 +17,7 @@
  */
 
 #include "Channel.hpp"
-
+#include <cstdio>
 namespace portal
 {
 
